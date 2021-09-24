@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Mark My Words"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.png"
-  author = "Chris Turner"
+  author = "Mark Switajski"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
