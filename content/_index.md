@@ -2,7 +2,7 @@
 {}
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+I'm **Mark Switajski**, a Data Scientist.
 
 I love all things computer science and maths.
 

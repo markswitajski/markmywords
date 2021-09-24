@@ -1,13 +1,13 @@
 baseURL: https://example.com/
 languageCode: en-US
-title: Chris Turner
+title: Mark My Words
 disqusShortname: ''
 googleAnalytics: ''
 theme: hugo-sustain
 permalinks:
   post: /:year/:month/:day/:slug
 params:
-  author: Chris Turner
+  author: Mark Switajski
   avatar: img/profile.png
   custom_css: []
   custom_js: []
