@@ -4,13 +4,13 @@
 
 I'm **Mark Switajski**, a Data Scientist.
 
-I love all things computer science and maths.
+I love working with data in R, gaming with my friends, and NBA basketball (Go Spurs Go!)
 
-Have a look at some of my working [projects].
+This website serves as a place for me to practice writing as well as toy around with fun data science projects.
 
-For more check out my academic & professional [resume].
+For a rundown of my professional life please take a look at my [resume].
 
-Contact me at [@username] or by [email].
+Feel free to contact me by [email].
 
 
 
