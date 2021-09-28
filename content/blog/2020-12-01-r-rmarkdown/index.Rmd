@@ -1,37 +1,23 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Obligatory First Post"
+author: "Mark Switajski"
+date: 2021-09-27T21:13:14-05:00
+categories: ["Chatting"]
+tags: ["R Markdown", "Jazz"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+# Hello there!
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Welcome to my personal website and, more specifically, my blog section. I am flattered to see that someone was interested in what I had to say. 
 
-You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+I'll mainly use this site as a mix of showcasing technical projects and blogging about data science related topics that I find interesting. I'm currently excited about honing my data visualization skills with `ggplot2` so if you're into that sort of thing, check back often!
 
-# Including Plots
+Also I will be showing off my dog, Jazz:
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+![My black lab/retreiver mix and I. Christmas 2020](jazz_christmas_2020.png)
