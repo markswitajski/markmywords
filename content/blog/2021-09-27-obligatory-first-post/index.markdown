@@ -1,14 +1,13 @@
 ---
-title: "Obligatory First Post"
-author: "Mark Switajski"
-date: 2021-09-27T21:13:14-05:00
-categories: ["Chatting"]
-tags: ["R Markdown", "Jazz"]
+title: Obligatory First Post
+author: ''
+date: '2021-09-27'
+slug: obligatory-first-post
+categories: []
+tags: []
+description: ''
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 # Hello there!
 
