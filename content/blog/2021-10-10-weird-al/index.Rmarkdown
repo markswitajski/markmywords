@@ -1,0 +1,25 @@
+---
+title: Inline Plot Test
+author: ''
+date: '2021-10-10'
+slug: weird-al
+categories: []
+tags: []
+description: ''
+---
+Test 1 2
+
+```{r}
+summary(mtcars)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+
+plot <- ggplot(mtcars, aes(x = hp, y = mpg)) +
+  geom_point() +
+  theme_classic()
+
+plot
+```
+
