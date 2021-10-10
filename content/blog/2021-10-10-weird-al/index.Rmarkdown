@@ -13,7 +13,7 @@ Test 1 2
 summary(mtcars)
 ```
 
-```{r echo=FALSE}
+```{r plot, echo=FALSE}
 library(ggplot2)
 
 plot <- ggplot(mtcars, aes(x = hp, y = mpg)) +
