@@ -35,3 +35,8 @@ theme = "hugo-sustain"
   identifier = "resume"
   weight = 300
   url = "/resume/markswitajskiresume.pdf"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
