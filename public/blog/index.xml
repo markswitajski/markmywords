@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Mark My Words</title>
+    <link>https://markswitajski.netlify.app/blog/</link>
+    <description>Recent content in Blogs on Mark My Words</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://markswitajski.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inline Plot Test</title>
+      <link>https://markswitajski.netlify.app/blog/weird-al/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://markswitajski.netlify.app/blog/weird-al/</guid>
+      <description>Test 1 2
+summary(mtcars) ## mpg cyl disp hp ## Min. :10.40 Min. :4.000 Min. : 71.1 Min. : 52.0 ## 1st Qu.:15.43 1st Qu.:4.000 1st Qu.:120.8 1st Qu.: 96.5 ## Median :19.20 Median :6.000 Median :196.3 Median :123.0 ## Mean :20.09 Mean :6.188 Mean :230.7 Mean :146.7 ## 3rd Qu.:22.80 3rd Qu.:8.000 3rd Qu.:326.0 3rd Qu.:180.0 ## Max. :33.90 Max. :8.000 Max. :472.0 Max. :335.0 ## drat wt qsec vs ## Min.</description>
+    </item>
+    
+    <item>
+      <title>Obligatory First Post</title>
+      <link>https://markswitajski.netlify.app/blog/obligatory-first-post/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://markswitajski.netlify.app/blog/obligatory-first-post/</guid>
+      <description>Hello there! Welcome to my personal website and, more specifically, my blog section. I am flattered to see that someone was interested in what I had to say.
+I&amp;rsquo;ll mainly use this site as a mix of showcasing technical projects and blogging about data science related topics that I find interesting. I&amp;rsquo;m currently excited about honing my data visualization skills with ggplot2 so if you&amp;rsquo;re into that sort of thing, check back often!</description>
+    </item>
+    
+  </channel>
+</rss>
