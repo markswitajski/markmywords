@@ -15,5 +15,5 @@ Feel free to contact me by [email].
 [projects]: /projects
 [resume]: /resume/markswitajskiresume.pdf
 [@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[email]: mailto:markswitajski@protonmail.com
 [rundown]: https://www.youtube.com/watch?v=FQpu-dCejPo
